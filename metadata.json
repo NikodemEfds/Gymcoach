@@ -1,0 +1,6 @@
+{
+  "name": "Gym Coach",
+  "description": "An AI-powered gym workout tracker, exercise library, and performance monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
